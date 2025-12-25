@@ -143,10 +143,10 @@
 
         pyware3D {
             bindings = <
-&kp LC(LA(A))  &trans         &kt LG(V)  &kp LC(P)       &kp LC(T)                         &trans     &trans     &trans  &kp LG(O)  &kp P
-&kp LA(A)      &kp LC(LA(S))  &kt LG(D)  &kp LC(LS(F))   &kp LC(G)  &kp LC(L)      &trans  &kp LC(D)  &kp LC(A)  &trans  &kp LC(L)  &trans
-&trans         &kp LC(LS(A))  &kp LG(C)  &kp LS(LA(V))   &kp LC(B)  &kp LC(M)      &trans  &trans     &trans     &trans  &trans     &trans
-&trans         &trans         &trans     &lt 1 KP_ENTER  &kt ENTER  &kt SPACE      &trans  &trans                                   &to 0
+&kp LC(LA(A))     &trans         &kt LG(V)  &kp LC(P)       &kp LC(T)                         &trans     &trans     &trans  &kp LG(O)  &kp P
+&kp LA(A)         &kp LC(LA(S))  &kt LG(D)  &kp LC(LS(F))   &kp LC(G)  &kp LC(L)      &trans  &kp LC(D)  &kp LC(A)  &trans  &kp LC(L)  &trans
+&trans            &kp LC(LS(A))  &kp LG(C)  &kp LS(LA(V))   &kp LC(B)  &kp LC(M)      &trans  &trans     &trans     &trans  &trans     &trans
+&kp LG(NUMBER_1)  &trans         &trans     &lt 1 KP_ENTER  &kt ENTER  &kt SPACE      &trans  &trans                                   &to 0
             >;
         };
 
