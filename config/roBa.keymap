@@ -54,13 +54,13 @@
             key-positions = <8 9>;
         };
 
-        MC {
-            bindings = <&kp LC(UP)>;
+        MCL {
+            bindings = <&kp LC(LEFT)>;
             key-positions = <6 7>;
         };
 
-        MCL {
-            bindings = <&kp RC(LEFT)>;
+        MC {
+            bindings = <&kp RC(UP)>;
             key-positions = <5 6>;
         };
 
