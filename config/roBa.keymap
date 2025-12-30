@@ -58,16 +58,6 @@
             bindings = <&kp BACKSPACE>;
             key-positions = <8 9>;
         };
-
-        BS {
-            bindings = <&kp LG(LEFT_BRACKET)>;
-            key-positions = <18 19>;
-        };
-
-        FM {
-            bindings = <&kp LG(RIGHT_BRACKET)>;
-            key-positions = <19 20>;
-        };
     };
 
     macros {
