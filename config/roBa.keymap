@@ -58,6 +58,16 @@
             bindings = <&kp LC(UP)>;
             key-positions = <6 7>;
         };
+
+        BS {
+            bindings = <&kp RG(LEFT_BRACKET)>;
+            key-positions = <18 19>;
+        };
+
+        FM {
+            bindings = <&kp RG(RIGHT_BRACKET)>;
+            key-positions = <19 20>;
+        };
     };
 
     macros {
