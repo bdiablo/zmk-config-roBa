@@ -73,16 +73,6 @@
             bindings = <&kp LC(UP_ARROW)>;
             key-positions = <6 7>;
         };
-
-        LeftM {
-            bindings = <&kp LC(LEFT)>;
-            key-positions = <5 6>;
-        };
-
-        rightM {
-            bindings = <&kp LC(RIGHT)>;
-            key-positions = <7 8>;
-        };
     };
 
     macros {
