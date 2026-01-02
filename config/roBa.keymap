@@ -135,10 +135,10 @@
 
         MOUSE {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                                 &trans                &trans                &trans                 &trans     &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &kp K_VOLUME_UP    &trans                &mkp LCLK             &trans                 &mkp RCLK  &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &kp K_VOLUME_DOWN  &kp LG(LEFT_BRACKET)  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &mkp RCLK  &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &trans             &trans                                                                        &trans
+&trans  &trans  &trans  &trans  &trans                                 &trans                &trans     &trans                 &trans     &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &kp K_VOLUME_UP    &trans                &mkp LCLK  &trans                 &mkp RCLK  &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &kp K_VOLUME_DOWN  &kp LG(LEFT_BRACKET)  &trans     &kp LG(RIGHT_BRACKET)  &mkp RCLK  &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &trans             &trans                                                             &trans
             >;
         };
 
