@@ -56,12 +56,12 @@
 
         MCL {
             bindings = <&kp LC(LEFT)>;
-            key-positions = <17 18>;
+            key-positions = <18 19>;
         };
 
         MC {
             bindings = <&kp RC(UP)>;
-            key-positions = <18 19>;
+            key-positions = <17 18>;
         };
 
         MCR {
