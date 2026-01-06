@@ -173,10 +173,10 @@
 
         layer_8 {
             bindings = <
-&trans  &trans  &trans  &kp PAGE_UP  &kp PAGE_DOWN                      &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans       &trans         &trans      &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans       &trans         &trans      &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans       &trans         &trans      &trans  &trans                          &trans
+&trans     &trans     &trans     &kp PAGE_UP  &kp PAGE_DOWN                      &trans  &trans  &trans  &trans  &trans
+&kp LG(A)  &kp LG(S)  &trans     &trans       &trans         &trans      &trans  &trans  &trans  &trans  &trans  &trans
+&trans     &trans     &kp LG(C)  &kp LG(V)    &trans         &trans      &trans  &trans  &trans  &trans  &trans  &trans
+&trans     &trans     &trans     &trans       &trans         &trans      &trans  &trans                          &trans
             >;
         };
     };
